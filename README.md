@@ -32,6 +32,6 @@ I am a Game Developer and huge admirer of these high tech games and have always 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Daveshmehta"><img src="https://github-readme-stats.vercel.app/api?username=Daveshmehta&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daveshmehta's GitHub stats" /></a>
+<a href="http://www.github.com/Daveshmehta"><img src="https://github-readme-stats.vercel.app/api?username=Daveshmehta&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daveshmehta's GitHub stats" /></a>
 
 <a href="http://www.github.com/Daveshmehta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Daveshmehta&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
